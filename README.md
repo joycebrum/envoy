@@ -2,6 +2,7 @@
 
 [Cloud-native high-performance edge/middle/service proxy](https://www.envoyproxy.io/)
 
+
 Envoy is hosted by the [Cloud Native Computing Foundation](https://cncf.io) (CNCF). If you are a
 company that wants to help shape the evolution of technologies that are container-packaged,
 dynamically-scheduled and microservices-oriented, consider joining the CNCF. For details about who's
