@@ -6,7 +6,7 @@ on:
     - main
   pull_request:
 
-permissions: read-all
+permissions: write-all
 
 concurrency:
   group: ${{ github.head_ref-github.workflow || github.run_id }}
